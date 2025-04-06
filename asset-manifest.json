@@ -1,10 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.cdff57be.css",
-    "main.js": "/portfolio/static/js/main.7fa3b50b.js",
+    "main.js": "/portfolio/static/js/main.3fdfbfbc.js",
     "static/media/image.png": "/portfolio/static/media/image.629ae9ff692eb46da66b.png",
+    "static/media/MovieFlix.png": "/portfolio/static/media/MovieFlix.be9c39473c320487243d.png",
+    "static/media/Fooddelviery.png": "/portfolio/static/media/Fooddelviery.4b3823246f1ff1045ff9.png",
     "static/media/about.png": "/portfolio/static/media/about.2e3db7dca5c488ba2907.png",
+    "static/media/EM.png": "/portfolio/static/media/EM.048305016d33cd09c329.png",
+    "static/media/Jobsearch.png": "/portfolio/static/media/Jobsearch.43f6730d11263a4c1210.png",
     "static/media/IJ.png": "/portfolio/static/media/IJ.b01e8495415649c49c00.png",
+    "static/media/IPL.png": "/portfolio/static/media/IPL.35dba775e2f338f33ba3.png",
+    "static/media/AI_Reply.png": "/portfolio/static/media/AI_Reply.931a240b351aea148e6f.png",
     "static/media/AWS.png": "/portfolio/static/media/AWS.3ac74a668acd12d1a7e6.png",
     "static/media/jenkins1.png": "/portfolio/static/media/jenkins1.c449611e59df7917326c.png",
     "static/media/springboot.png": "/portfolio/static/media/springboot.b856dd9e6d94b319f2f6.png",
@@ -25,10 +31,10 @@
     "static/media/github.png": "/portfolio/static/media/github.68bbeafeade821944d14.png",
     "index.html": "/portfolio/index.html",
     "main.cdff57be.css.map": "/portfolio/static/css/main.cdff57be.css.map",
-    "main.7fa3b50b.js.map": "/portfolio/static/js/main.7fa3b50b.js.map"
+    "main.3fdfbfbc.js.map": "/portfolio/static/js/main.3fdfbfbc.js.map"
   },
   "entrypoints": [
     "static/css/main.cdff57be.css",
-    "static/js/main.7fa3b50b.js"
+    "static/js/main.3fdfbfbc.js"
   ]
 }
