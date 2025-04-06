@@ -2,12 +2,12 @@ const ProfileData = {
   img: require("../assets/Images/image.png"),
 
   name: "Bhargav Pulipati",
-  professions: ["Full Stack Java Developer"],
+  professions: ["Full Stack Developer"],
   info: [
     
   ],
   resume:
-    "https://drive.google.com/file/d/1HExMQi7MtMsW_zTZelrj7q3J_QaD2ZeD/view",
+    "https://drive.google.com/file/d/1FThqhMgzhvuhfGfhEcjR6PRQHh3fqhzS/view?usp=sharing",
 };
 
 export default ProfileData;

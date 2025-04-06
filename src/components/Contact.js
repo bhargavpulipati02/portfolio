@@ -35,14 +35,7 @@ const Contact = () => {
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-black">
             Contact Me
           </h1>
-          {/* <p
-            data-aos="zoom-in"
-            data-aos-duration="1000"
-            data-aos-once="false"
-            className="text-lg font-medium leading-relaxed text-dark-orange "
-          >
-            Let's keep in touch
-          </p> */}
+          
         </div>
         <div className="flex flex-col gap-2 md:flex-row w-full mx-auto rounded-xl bg-darkblue p-4 md:gap-7 lg:gap-9 lg:rounded-2xl xl:gap-10">
           <div className="p-2 w-full text-center lg:p-5 xl:p-7 md:w-1/2 lg:w-4/6">
