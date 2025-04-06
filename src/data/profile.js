@@ -2,7 +2,7 @@ const ProfileData = {
   img: require("../assets/Images/image.png"),
 
   name: "Bhargav Pulipati",
-  professions: ["Full Stack Developer"],
+  professions: ["Full Stack Java Developer"],
   info: [
     
   ],
