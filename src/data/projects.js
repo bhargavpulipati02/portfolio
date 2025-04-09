@@ -8,7 +8,7 @@ const ProjectsData = [
     name: "Job Portal",
     image: require("../assets/Images/Jobsearch.png"),
     description: "Constructed a job portal with NoSQL database optimized for high performance, which facilitated 1,000+ job applications.",
-    github: "https://github.com/bhargavpulipati02/JobSearch",
+    github: "https://github.com/bhargavpulipati02/JobPortal",
     
   },
   {
